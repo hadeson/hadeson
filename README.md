@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hadeson
-- 👀 I’m interested in Machine Learning, Computer Vision, Data Scraping
-- 💞️ I’m looking to collaborate on CV, ML or mass data scraping projects
-- 📫 You can reach me at caothanhson94@gmail.com
+👋 Hi, I’m @hadeson
+👀 I’m interested in machine learning, computer vision, web development, data scraping
+💞️ Looking to bring ML solutions to the web
+📫 You can reach me at caothanhson94@gmail.com
 
 <!---
 hadeson/hadeson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
