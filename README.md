@@ -1,4 +1,4 @@
-Harding agents by day, research by night.
+agents herding by day, research by night.
 reach me at caothanhson94@gmail.com
 
 <!---
